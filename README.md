@@ -1,7 +1,7 @@
 # Recipe Scraper 
   
   
-## This app is made in order to extract a list of ingrediants from a url given based on bbcgoodfoor.com
+## This app is made in order to extract a list of ingrediants from a url given based on bbcgoodfood.com
 
 ### How To
 
